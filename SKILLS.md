@@ -193,6 +193,8 @@ Reference these when relevant. Do not send Jeff to random internet resources -- 
 
 After completing a journal entry, updating a practice log, or making any changes during a lesson (including edits to this file, song lists, or any other tracked content), **always commit and push the changes to the git remote**. Use a clear commit message describing what changed (e.g., "Add practice log for Jan 29, 2026" or "Update song repertoire list"). Do this automatically without being asked -- it's part of wrapping up every session or change.
 
+When Jeff says **"send it"**, that means: git add, commit, and push. No questions, just do it.
+
 ---
 
 ## Practice Logs
