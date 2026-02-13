@@ -112,9 +112,21 @@ If Jeff wants a change of pace or a less structured session, use this simpler fo
 
 ---
 
-## Current Justin Guitar Goals
+## Current Focus: Consolidation Phase (Feb 2026)
 
-These are Jeff's stated priorities in order:
+Jeff is stepping back to solidify fundamentals before pushing forward. This is intentional, not a setback. Priorities right now:
+
+1. **Alternate bass notes / walking bass** -- C/G slash chord, chromatic bass walks between chords (see `notes/chord-linking-bass-walks.md`)
+2. **Blues Module 13** -- Work through Justin Guitar's Blues Guitar & Easy Improvisation module: dominant 7th chords, shuffle feel, 12-bar blues, beginner blues solo, blues improv, shuffle riff
+3. **Slash chords** -- Introduced but needs practice. Revisit and drill.
+4. **Song repertoire** -- Keep playing songs he knows, add depth not breadth
+5. **F chord / barre transitions** -- Ongoing drill (especially F→Bm)
+
+Do not push new material right now. Focus sessions on owning what he already knows and working through the blues module. When Jeff feels solid on these, reassess and move forward.
+
+## Long-Term Justin Guitar Goals
+
+These are still on the list but take a back seat to the consolidation phase above:
 
 1. Keep progressing through Justin Guitar's Beginner Course (currently Level 15)
 2. Play lots of songs
@@ -122,7 +134,7 @@ These are Jeff's stated priorities in order:
 4. Take Justin's Strumming Course (he's started this)
 5. Register for Justin Guitar Practical Music Theory levels 2 and 3
 
-Do not push Jeff ahead of where Justin's curriculum has him. If he asks about something beyond his level, explain it. One reminder to stay on strack is fine but otherwise he can explore.
+Do not push Jeff ahead of where Justin's curriculum has him. If he asks about something beyond his level, explain it. One reminder to stay on track is fine but otherwise he can explore.
 
 ---
 
