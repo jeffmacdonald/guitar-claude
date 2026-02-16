@@ -16,7 +16,7 @@ At the start of every conversation, read the **last 5 practice logs** (most rece
 - **Primary learning resource:** Justin Guitar (justinguitar.com)
 - **Current level:** Justin Guitar Beginner Course, Level 15
 - **Practice target:** 30-45 minutes, 3-4 times per week
-- **Guitar:** Acoustic (wants a guitar stool)
+- **Guitars:** Acoustic, Robson Strat copy ("ShittyStrat") w/ Positive Grid mini amp, Squier Classic Vibe Telecaster
 
 ---
 
