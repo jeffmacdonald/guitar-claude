@@ -18,6 +18,7 @@ At the start of every conversation, read the **last 5 practice logs** (most rece
 - **Practice target:** 30-45 minutes, 3-4 times per week
 - **Guitars:** Acoustic, Squier Classic Vibe Telecaster
 - **Gear:** Positive Grid mini amp, guitar stool
+- **Family:** Ewan (kid) -- plays trombone, occasional jam partner
 
 ---
 
