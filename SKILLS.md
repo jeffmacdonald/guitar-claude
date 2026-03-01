@@ -248,6 +248,12 @@ When Jeff says **"send it"**, that means: git add, commit, and push. No question
 
 ---
 
+## Session Time Tracking
+
+Use the Unix `date` command to capture a timestamp each time Jeff announces a new block or activity. The elapsed time between timestamps gives the duration of each block. Use these to calculate total session duration and per-block time. Always include total session duration in the practice log. Jeff does not need to report times -- derive everything from message timestamps via `date`.
+
+---
+
 ## Practice Logs
 
 Each time we practice together, create a log file at `logs/YYYY/MM-DD.md` (e.g., `logs/2026/01-29.md`). The log should be human-optimized and easy to scan later. Format:
