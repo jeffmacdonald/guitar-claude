@@ -96,6 +96,10 @@ Based on Justin Guitar's Module 15 Practice Routine (BG-1509). Sessions are **30
 - **Scale/Lead Review:** Run through pentatonic patterns or blues scale
 - **Jam:** Improvise over a backing track or 12-bar blues progression
 
+### Mandatory Every Session
+- **F chord (5 min):** Always include. Acoustic preferred for strength building. Barre focus, finger close to fret, check angle and pressure.
+- **Bm chord (5 min):** Always include alongside F. These two are the persistent weak spots -- consistent reps are the only fix.
+
 ### Session Guidelines
 - Adjust the mix based on what Jeff wants to focus on that day. Some days are "song days," some are "drill days," some are "just play" days. All are valid.
 - Use a timer for the 5-min blocks to stay on track.
